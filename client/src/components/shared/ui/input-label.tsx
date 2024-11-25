@@ -1,0 +1,1 @@
+export const InputLabel = ({ label }: { label: string }) => <p className="text-grey-800">{label}</p>
